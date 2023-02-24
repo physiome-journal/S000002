@@ -23,6 +23,9 @@ project:
     - squid giant axon
     - weak acid
     - weak base
+  numbering:
+    heading_2: true
+    heading_3: true
 site:
   # title:
   projects:
