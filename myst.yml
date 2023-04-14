@@ -1,6 +1,14 @@
 version: 1
 project:
   title: The Boron & De Weer Model of Intracellular pH Regulation
+  description: >-
+    The classic Boron & De Weer (1976) paper provided the first evidence of
+    active regulation of pH in cells by an energy-dependent acid-base
+    transporter. This Physiome paper seeks to make that model, and the
+    experimental conditions under which it was developed, available in a
+    reproducible and well-documented form, along with a software implementation
+    that makes the model easy to use and understand.
+  thumbnail: thumbnail.png
   authors:
     - name: Rossana Occhipinti
       orcid: 0000-0002-0519-7725
