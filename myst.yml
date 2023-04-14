@@ -42,6 +42,27 @@ project:
     - weak base
   open_access: true
   license: CC-BY-4.0
+  numbering:
+    heading_2: true
+    heading_3: true
+  editors:
+    - name: Karin Lundengård
+      orcid: 0000-0001-7600-8218
+      role: Editor
+      affiliations:
+        - >-
+          Integrative Systems Biology, Department of Biomedical Engineering,
+          Linköping University, Linköping, Sweden
+    - name: Anand K. Rampadarath
+      orcid: 0000-0001-8830-6212
+      role: Curator
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+  history:
+    - date: 2020/08/25
+      type: accepted
+    - date: 2020/08/27
+      type: published
 site:
   title: The Boron & De Weer Model of Intracellular pH Regulation
   projects:
