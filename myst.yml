@@ -73,10 +73,6 @@ project:
       type: published
 site:
   title: The Boron & De Weer Model of Intracellular pH Regulation
-  projects:
-    - slug: S000002
-      path: .
-  nav: []
   actions:
     - title: paper
       url: Occhipinti2020PhysiomeS000002.pdf
@@ -86,4 +82,5 @@ site:
       static: true
     - title: primary
       url: https://doi.org/10.1085/jgp.67.1.91
-  domains: []
+  domains:
+    - physiome-S000002.curve.space
